@@ -1,4 +1,4 @@
-package com.verve.service;
+package com.verve.service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

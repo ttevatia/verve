@@ -1,5 +1,6 @@
-package com.verve.service;
+package com.verve.service.controller;
 
+import com.verve.service.service.KafkaProducerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
