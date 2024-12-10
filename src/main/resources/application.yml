@@ -1,0 +1,11 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+  data:
+    redis:
+      port: 6379
+      host: localhost
+logging:
+  level:
+    root: INFO
+    com.verve.service: DEBUG
